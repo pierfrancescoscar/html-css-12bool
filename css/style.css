@@ -7,3 +7,12 @@
     padding: 10px;
     border: 1px solid white;
 }
+
+.nested-box {
+    background-color: #00e165;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid white;
+    
+}
