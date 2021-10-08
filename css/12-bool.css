@@ -1,0 +1,62 @@
+/* General Settings */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/* Container */
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+/* Row */
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+/* 12 Cols Calc */
+
+.col-12 {
+    width: 100%;
+}
+.col-11 {
+    width: calc((100% / 12) * 11);
+}
+.col-10 {
+    width: calc((100% / 12) * 10);
+}
+.col-9 {
+    width: calc((100% / 12) * 9);
+}
+.col-8 {
+    width: calc((100% / 12) * 8);
+}
+.col-7 {
+    width: calc((100% / 12) * 7);
+}
+.col-6 {
+    width: 50%;
+}
+.col-5 {
+    width: calc((100% / 12) * 5);
+}
+.col-4 {
+    width: calc(100% / 3);
+}
+.col-3 {
+    width: calc(100% / 4);
+}
+.col-2 {
+    width: calc((100% / 12) * 2);
+}
+.col-1 {
+    width: calc(100% / 12);
+}
