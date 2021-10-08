@@ -24,6 +24,10 @@
 
 /* 12 Cols Calc */
 
+.col-50 {
+    width: calc(100% / 50);
+}
+
 .col-12 {
     width: 100%;
 }

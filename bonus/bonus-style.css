@@ -1,0 +1,11 @@
+.white-box {
+    background-color: #fdfefa;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.black-box {
+    background-color: black;
+    padding: 10px;
+    border: 1px solid white;
+}
