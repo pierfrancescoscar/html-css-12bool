@@ -1,0 +1,9 @@
+/* Box Content Styling */
+
+.box {
+    background-color: #006cfa;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid white;
+}
